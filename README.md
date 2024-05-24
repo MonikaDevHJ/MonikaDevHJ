@@ -1,13 +1,30 @@
 
 ---
+<h1 align="left">Hey 👋 What's up?</h1>
 
-👋 Hi, I’m @MonikaDevHJ  
-👀 I’m interested in learning new things in software coding languages and beyond. I enjoy reading books, farming, and embracing any new knowledge that comes my way.  
-🌱 I’m currently learning JavaScript Libraries and MERN Stack Development.  
-💞️ I’m looking to collaborate on open-source projects related to web development and AI.  
-📫 You can reach me through my [LinkedIn](https://linkedin.com/in/monika-h-j-80517122a/) and via email at monikahj7@gmail.com.  
-😄 Pronouns: She/her  
-⚡ Fun fact: I’m always ready to take on new challenges and expand my horizons!
+###
 
+<p align="left">My name is<span><b> Vishal</b></span> and I'm a Frontend Developer</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br> 📧 Connect me on gmail: <a href="mailto:vishu15singh@gmail.com">vishal@gmail.com </a><br>💬  Connect with me on <a href="https://www.linkedin.com/in/vishal-kumar-singh-25a77422a/">LinkedIn</a></p>
+
+###
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Vishal;Welcome+to+my+Github+profile)
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-origi…
 ---
 
