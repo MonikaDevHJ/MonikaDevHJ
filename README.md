@@ -1,10 +1,8 @@
-
----
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is<span><b> Vishal</b></span> and I'm a Frontend Developer</p>
+<p align="left">My name is<span><b> Monika</b></span> and I'm a Software Developer</p>
 
 ###
 
@@ -12,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br> 📧 Connect me on gmail: <a href="mailto:vishu15singh@gmail.com">vishal@gmail.com </a><br>💬  Connect with me on <a href="https://www.linkedin.com/in/vishal-kumar-singh-25a77422a/">LinkedIn</a></p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning MERN<br> 📧 Connect me on gmail: <a href="mailto:monikahj7@gmail.com">vishal@gmail.com </a><br>💬  Connect with me on <a href="https://www.linkedin.com/in/monika-h-j-80517122a/">LinkedIn</a></p>
 
 ###
 
@@ -25,6 +23,28 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-origi…
----
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="40" alt="Sass" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="40" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://media.zeemly.com/zeemly/product/material-ui.png" height="40" alt="Material UI" />
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" height="40" alt="TailWind" />
+  <img width="12"/>
+</div>
 
+###
