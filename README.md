@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Libraries and MERN Stack Development.<br> 📧 Connect me on gmail: <a href="mailto:monikahj7@gmail.com">monikahj7@gmail.com </a><br>💬  Connect with me on <a href="https://www.linkedin.com/in/monika-h-j-80517122a/">LinkedIn</a></p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Javascript Libraries and MERN Stack Development.<br> 📧 Connect me on gmail: <a href="mailto:monikahj7@gmail.com">monikahj7@gmail.com </a><br>💬  Connect with me on <a href="https://www.linkedin.com/in/monika-h-j-80517122a/">LinkedIn</a></p>
 
 ###
 
